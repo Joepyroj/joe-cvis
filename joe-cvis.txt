@@ -1,2 +1,4 @@
 menciptakan sistem untuk smartcity
 memudahkan pengaturan kota mulai lalu lintas
+memudahkan proses pendataan penduduk
+memudahkan proses pendataan kendaraan
